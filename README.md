@@ -22,3 +22,4 @@ git push -u origin main
              Uploading your code to PythonAnywhere
 https://help.pythonanywhere.com/pages/DeployExistingDjangoProject/#uploading-your-code-to-pythonanywhere
 # fifa
+# fifa
