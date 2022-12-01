@@ -1,4 +1,4 @@
 git add .                   
 git commit -m 'First commit'
-git remote add origin https://github.com/cheesenaan/fifa.git
+git remote add origin https://github.com/cheesenaan/f.git
 git push -u origin main
